@@ -1,0 +1,18 @@
+0) login di rete automatico ad ogli reboot
+
+) step 12 (power settings da rivedere): copio su tmpSetup NORMALMEMTE (se no non trova path)
+& POI SECVONDFA PARTE RUN AS AMIN, così copia su C!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+)step 23: snapshot teamviewer setup (ri-chied network login...)  ed uso pressbutton per le radio boxes
+
+)step25-parteA: la copia parseq Custom Installer (#2) chiede se è file F op rir D, mentre al #1 non lo chiede?
+
+)step25-parteB: non trova Setup.exe (c'è anche un altro Setup.*)
+
+)step 31: come si lancia il file 15-ctrremove.diagcab ?
+MA FORSE NON SERVE QUESTO FILE!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+

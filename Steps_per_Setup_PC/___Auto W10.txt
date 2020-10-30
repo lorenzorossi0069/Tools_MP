@@ -1,0 +1,22 @@
+setup EN/ITA...
+
+) netplwiz OR Win+R >control userpasswords 2 &uncheck...
+
+)change workgroup and PC name
+
+) browse \\server01
+Attivare individuazione rete (Network discovery) in centro connessioni di rete
+
+)BIOS.
+dx mouse>Settings>Update&Recovery>Recovery>Restart now>>Troubleshoot>Advanced Options>UEFI FW Settings>>RESTART>OK
+
+)disable screensaver by cmd: 
+powercfg -attributes SUB_SLEEP xxxxxxxxxxxxxxxxxxxxxx
+
+
+)imposta sfondo: leggi file da rete o altrove e set as wallpaper
+
+)da CMD: powercfg.exe -import C:\microplanPowersettings.pow 
+exit
+
+powercfg /h.............studio

@@ -1,0 +1,23 @@
+https://www.groovypost.com/howto/windows-10-keyboard-shortcuts/
+
+Power Options	powercfg.cpl
+
+Screen Resolution	desk.cpl
+
+System Properties (Computer Name Tab)	systempropertiescomputername
+
+Screen Resolution	desk.cpl
+
+Network Connections	ncpa.cpl  //per trovare eth2 per wago...
+
+Windows Update	wuapp //?????non va???????
+
+---
+da:
+https://www.ilsoftware.it/articoli.asp?tag=Sfondo-Windows-10-come-modificare-quello-della-schermata-di-blocco_20812
+
+reg add HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\PersonalizationCSP /v DesktopImagePath /t REG_SZ /d "c:\images\business.jpg" /f
+reg add HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\PersonalizationCSP /v DesktopImageUrl /t REG_SZ /d "c:\images\business.jpg" /f
+reg add HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\PersonalizationCSP /v DesktopImageStatus /t REG_DWORD /d 1 /f
+
+
